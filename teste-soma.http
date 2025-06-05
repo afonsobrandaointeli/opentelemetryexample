@@ -1,0 +1,4 @@
+GET http://localhost:8080/soma/7/5
+
+###
+curl "http://localhost:8080/soma/10/5?user_id=user123"
